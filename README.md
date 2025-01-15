@@ -1,4 +1,4 @@
-## Hi there, I'm Leonardo👋
+# Hi there, I'm Leonardo👋
 
 ---
 
