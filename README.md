@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Leonardo👋
 
 <!--
 **LeonardoDuenas/LeonardoDuenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a dedicated Computer Science student seeking an internship or junior position in full stack web development. I am looking for a position that offers professional challenges making use of my web development and database management skills. 
