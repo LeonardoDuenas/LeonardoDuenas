@@ -1,9 +1,8 @@
 # Hi there, I'm Leonardo👋
 
----
-
 I am a dedicated Computer Science student seeking an internship or junior position in full stack web development. I am looking for a position that offers professional challenges making use of my web development and database management skills. 
 
+## Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -17,9 +16,9 @@ I am a dedicated Computer Science student seeking an internship or junior positi
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><br>
 
-<br>
+## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDuenas&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDuenas&layout=donut)
 
